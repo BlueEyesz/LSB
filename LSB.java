@@ -143,7 +143,7 @@ public class LSB {
         }
         return false;             
     }
-   
+   // Hàm DECODE truyền vào tham số image_path 
     public String Decode(String image_path){
         
         try {
