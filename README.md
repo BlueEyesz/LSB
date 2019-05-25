@@ -1,4 +1,4 @@
 # LSB
 
 
-Code thuật toán LSB . Kiểm tra giữa kì môn Kĩ thuật giấu tin.
+Code thuật toán LSB .
